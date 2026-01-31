@@ -1,0 +1,8 @@
+# .gitignore
+.vscode/
+build/
+*.o
+*.exe
+*.out
+redis-lite  
+.DS_Store
